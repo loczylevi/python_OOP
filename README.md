@@ -1,5 +1,5 @@
 # python_OOP
-
+## https://sulipy.hu/oop/osztaly_objektum?tab=video
 ```python
 import random
 
