@@ -1,5 +1,5 @@
 
-import random
+# import random
 
 class Jatek:
     def __init__(self, hp, damage, kill_counter=0):
@@ -54,3 +54,4 @@ print(f"\nGoblin stat:\nHitPoint: {goblin.hp}\nDamage: {goblin.damage}\nkillek: 
 
 
         
+
